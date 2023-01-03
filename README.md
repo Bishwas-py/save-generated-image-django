@@ -1,6 +1,6 @@
 # Save generated image programatically in Django
 
-This is a quick simple Django app that allows you to save a generated image in Django. Here
+This is a quick simple Django app that allows you to save a generated image (saving selenium screenshots) in Django. Here
 is the [blog post](https://blog.webmatrices.com/how-to-save-generated-image-django/) that explains how
 this works. 
 
